@@ -1,6 +1,6 @@
 say "sit in lotus position"
-sleep 10
+sleep 15
 say "strechting hands up"
-./fisio.sh 3 8
+./fisio.sh 3 11
 say "streching hands down"
-./fisio.sh 3 10
+./fisio.sh 3 13
